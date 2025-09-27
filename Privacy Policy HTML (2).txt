@@ -57,8 +57,8 @@
 
   <h2>Contact Us</h2>
   <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
-  <p><strong>Email:</strong> your-email@example.com</p>
-  <p><strong>Phone:</strong> +880-1XXXXXXXXX</p>
+  <p><strong>Email:</strong>mdhamedulislam89@gmail.com</p>
+  <p><strong>Phone:</strong> +880-1889914499</p>
 
   <p>By using our services, you agree to this Privacy Policy.</p>
 </body>
